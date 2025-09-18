@@ -4,13 +4,13 @@
 if SHIELD_KABARGA
 
 config ZMK_KEYBOARD_NAME
-	default "KABARGA"
+	default "Wanderer"
 
 config ZMK_SPLIT
 	default n
 
 config USB_DEVICE_PRODUCT
-	default "kabarga"
+	default "Wanderer"
 
 config USB_DEVICE_VID
 	default "0x0000"
@@ -19,6 +19,6 @@ config USB_DEVICE_PID
 	default "0xFEED"
 
 config USB_DEVICE_MANUFACTURER
-	default "aroum"
+	default "kaumovich"
 
 endif

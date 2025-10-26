@@ -1,6 +1,6 @@
 file_format: "1"
-id: kabarga
-name: kabarga
+id: wanderer
+name: Wanderer
 type: shield
 url: https://github.com/aroum/kabarga/
 requires: [pro_micro]

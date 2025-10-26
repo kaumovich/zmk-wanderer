@@ -12,8 +12,8 @@
 &default_layout { transform = <&default_transform>; };
 
 / {
-    model = "Kabarga";
-    compatible = "aroum,kabarga";
+    model = "Wanderer";
+    compatible = "kaumovich,wanderer";
 
     chosen {
         zmk,kscan = &kscan0;

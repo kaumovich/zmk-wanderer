@@ -8,7 +8,7 @@ features:
   - keys
   - studio
 siblings:
-  - wanderer
+  - kabarga
 outputs:
   - usb
   - ble

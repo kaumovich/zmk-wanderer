@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: MIT
 # original by aroum
 
-if SHIELD_WANDERER
+if SHIELD_KABARGA
 
 config ZMK_KEYBOARD_NAME
 	default "Wanderer"

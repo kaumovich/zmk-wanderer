@@ -1,5 +1,5 @@
 # Copyright (c) 2020 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-config SHIELD_KABARGA
-	def_bool $(shields_list_contains,kabarga)
+config SHIELD_WANDERER
+	def_bool $(shields_list_contains,wanderer)

@@ -1,6 +1,6 @@
 {
-    "id": "kabarga",
-    "name": "KABARGA",
+    "id": "wanderer",
+    "name": "WANDERER",
     "layouts": {
       "default_transform": {
         "name": "default_transform",
@@ -55,3 +55,4 @@
     },
     "sensors": []
   }
+
